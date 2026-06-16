@@ -73,9 +73,9 @@ Synthetic FDG-PET Volume
 ## Quickstart
 
 ```bash
-git clone https://github.com/kubtem/3d-unet-gan-pet-synthesis.git
+git clone https://github.com/kubtem/3D-UNET-GAN-Medical-Segmentation.git
 
-cd 3d-unet-gan-pet-synthesis
+cd 3D-UNET-GAN-Medical-Segmentation
 
 pip install -r requirements.txt
 
