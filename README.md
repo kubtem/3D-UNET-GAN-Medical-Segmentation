@@ -1,6 +1,6 @@
-# 3D-UNET-GAN-Medical-Segmentation
- 3D U-Net + GAN discriminator pipeline for volumetric medical image segmentation
 # Dynamic Amyloid PET → Synthetic FDG-PET Generation
+
+3D U-Net + GAN framework for cross-modal volumetric PET image synthesis
 
 [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kubtem/3d-u-net-gan-pipeline?scriptVersionId=247691803)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -80,6 +80,8 @@ cd 3d-unet-gan-pet-synthesis
 pip install -r requirements.txt
 
 jupyter notebook notebooks/3d-unet-gan-pet-synthesis.ipynb
+
+```
 
 Key Design Decisions
 
