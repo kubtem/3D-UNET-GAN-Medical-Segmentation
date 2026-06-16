@@ -2,7 +2,7 @@
 
 3D U-Net + GAN framework for cross-modal volumetric PET image synthesis
 
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kubtem/3d-u-net-gan-pipeline?scriptVersionId=247691803)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kubtem/3d-u-net-gan-pipeline)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
